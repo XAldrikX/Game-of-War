@@ -1,7 +1,7 @@
 # Game-of-War
 
 <div align="center">
-  <img src=""
+  <img src="https://user-images.githubusercontent.com/88796366/154205337-ddb91962-d1c4-4e29-880d-bf737408d31d.png">
 </div>
 
 Esse projeto faz um Request para a API "Deck of cards", criei um jogo simples de War onde você irá jogar contra o computador, o objetivo é tirar a carta com o maior valor.<br>
