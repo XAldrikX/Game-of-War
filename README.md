@@ -5,4 +5,4 @@ O primeiro passo foi fazer um GET request para a API e receber a promise de um "
 Para a lógica de comparar o valor das cartas usei um array com os possíveis valores das cartas e utilizando uma propriedade que a API fornece, eu pude chegar o valor da carta que recebi com o index do array que eu havia criado utilizando indexOf(), assim a carta que recebi da API dá um match com os valores do array e a que tiver o maior index ganha.<br>
 <br>
 <br>
-Link do deployment -->
+Link do deployment --> https://xaldrikx.github.io/Game-of-War/
